@@ -1,0 +1,13 @@
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\bin\Debug\MegaDesk.exe.config
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\bin\Debug\MegaDesk.exe
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\bin\Debug\MegaDesk.pdb
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.csprojAssemblyReference.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.MainMenu.resources
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.Properties.Resources.resources
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.csproj.GenerateResource.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.csproj.CoreCompileInputs.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.exe
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.pdb
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.AddQuote.resources
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.SearchQuotes.resources
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W03\MegaDesk\MegaDesk\obj\Debug\MegaDesk.ViewQuotes.resources
