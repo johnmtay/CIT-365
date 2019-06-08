@@ -1,0 +1,69 @@
+C:\Users\15tay\source\repos\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.deps.json
+C:\Users\15tay\source\repos\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.runtimeconfig.json
+C:\Users\15tay\source\repos\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.runtimeconfig.dev.json
+C:\Users\15tay\source\repos\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.dll
+C:\Users\15tay\source\repos\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.pdb
+C:\Users\15tay\source\repos\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.Views.dll
+C:\Users\15tay\source\repos\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.Views.pdb
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.csprojAssemblyReference.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.csproj.CoreCompileInputs.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorAssemblyInfo.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorAssemblyInfo.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.AssemblyInfoInputs.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.AssemblyInfo.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.TagHelpers.input.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.TagHelpers.output.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorCoreGenerate.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorTargetAssemblyInfo.cache
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorTargetAssemblyInfo.cs
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.Views.pdb
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.dll
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.pdb
+C:\Users\15tay\source\repos\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.csproj.CopyComplete
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.deps.json
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.runtimeconfig.json
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.runtimeconfig.dev.json
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.dll
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.pdb
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.Views.dll
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\bin\Debug\netcoreapp2.1\ScriptureJournal.Views.pdb
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.csprojAssemblyReference.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.csproj.CoreCompileInputs.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorAssemblyInfo.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorAssemblyInfo.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.AssemblyInfoInputs.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.AssemblyInfo.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.TagHelpers.input.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.TagHelpers.output.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorCoreGenerate.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorTargetAssemblyInfo.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.RazorTargetAssemblyInfo.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.Views.pdb
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.dll
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.pdb
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\ScriptureJournal.csproj.CopyComplete
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Create.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Delete.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Details.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Edit.g.cshtml.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W07\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Index.g.cshtml.cs

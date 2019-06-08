@@ -12532,23 +12532,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\John\\.nuget\\packages\\": {},
+    "C:\\Users\\15tay\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Dropbox\\BYUI\\CIT 365 .NET Software Dev\\CIT-365\\W06\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\15tay\\Dropbox\\BYUI\\CIT 365 .NET Software Dev\\CIT-365\\W06\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\John\\Dropbox\\BYUI\\CIT 365 .NET Software Dev\\CIT-365\\W06\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
-      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Dropbox\\BYUI\\CIT 365 .NET Software Dev\\CIT-365\\W06\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+      "projectPath": "C:\\Users\\15tay\\Dropbox\\BYUI\\CIT 365 .NET Software Dev\\CIT-365\\W06\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "packagesPath": "C:\\Users\\15tay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\15tay\\Dropbox\\BYUI\\CIT 365 .NET Software Dev\\CIT-365\\W06\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\15tay\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
