@@ -34,6 +34,12 @@
         <dd>
             @Html.DisplayFor(model => model.Price)
         </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+        <dd class="col-sm-10">
+            <br /><img img src="@Url.Content(Model.Image)" alt="@Model.Image" style="max-width: 20rem;"/>
+        </dd>
     </dl>
 </div>
 <div>

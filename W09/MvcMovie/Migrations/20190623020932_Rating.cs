@@ -7,7 +7,7 @@ namespace MvcMovie.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<string>(
-                name: "ImagePath",
+                name: "Image",
                 table: "Movie",
                 nullable: true);
 
@@ -20,7 +20,7 @@ namespace MvcMovie.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(
-                name: "ImagePath",
+                name: "Image",
                 table: "Movie");
 
             migrationBuilder.DropColumn(
