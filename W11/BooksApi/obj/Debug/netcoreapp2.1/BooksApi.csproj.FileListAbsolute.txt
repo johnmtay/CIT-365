@@ -1,0 +1,11 @@
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.deps.json
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.json
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.dev.json
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.dll
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csprojAssemblyReference.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfoInputs.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfo.cs
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorTargetAssemblyInfo.cache
