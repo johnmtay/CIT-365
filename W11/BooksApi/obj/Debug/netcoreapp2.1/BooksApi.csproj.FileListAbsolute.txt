@@ -9,3 +9,6 @@ C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\D
 C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfoInputs.cache
 C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfo.cs
 C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.pdb
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.dll
+C:\Users\15tay\Dropbox\BYUI\CIT 365 .NET Software Dev\CIT-365\W11\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.pdb
